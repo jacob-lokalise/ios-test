@@ -25,3 +25,4 @@
 "ERROR_25_MESSAGE" = "Нам не удалось подтвердить ваш платеж. Свяжитесь с support@roamerapp.com";
 "CALL_TRANSFERING" = "передача";
 "test-key" = "слова проверки";
+"test-webhook" = "тестирование webhook";
