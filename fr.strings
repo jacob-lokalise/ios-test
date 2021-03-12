@@ -25,3 +25,4 @@
 "ERROR_25_MESSAGE" = "Nous n'avons pas pu valider votre paiement. Contactez support@roamerapp.com";
 "CALL_TRANSFERING" = "transfert";
 "test-key" = "tester des mots";
+"test-webhook" = "test du webhook";
