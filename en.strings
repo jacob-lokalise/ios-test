@@ -25,4 +25,4 @@ Select regular calls for reliability and Internet calls for the lowest rates.";
 "ERROR_25_MESSAGE" = "We could not validate your payment. Contact support@roamerapp.com";
 "CALL_TRANSFERING" = "transferring";
 "test-key" = "testing words";
-"test-webhook" = "testing webhook";
+"test-webhook" = "testing webhook test";
