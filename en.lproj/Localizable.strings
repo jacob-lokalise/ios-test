@@ -1,4 +1,4 @@
-"PERM_CONTACTS_TITLE" = "Allowing Roamer access to contacts updates";
+"PERM_CONTACTS_TITLE" = "Allowing Roamer access to contacts";
 "CURRENCY_MDL" = "Moldovan Leu";
 "COMMAND_COPIED" = "Copied";
 "TUTORIAL_ACTION_BUTTON_1" = "Ok!";
@@ -24,4 +24,3 @@ Select regular calls for reliability and Internet calls for the lowest rates.";
 "ERROR_23_TITLE" = "Payment problem";
 "ERROR_25_MESSAGE" = "We could not validate your payment. Contact support@roamerapp.com";
 "CALL_TRANSFERING" = "transferring new value again";
-"test_key_name" = "test key";
