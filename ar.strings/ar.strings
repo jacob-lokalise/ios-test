@@ -1,5 +1,5 @@
 "PERM_CONTACTS_TITLE" = "Allowing Roamer access to contacts";
-"CURRENCY_MDL" = "Moldovan Leu";
+"CURRENCY_MDL" = "ليو مولدوفا";
 "COMMAND_COPIED" = "Copied";
 "TUTORIAL_ACTION_BUTTON_1" = "Ok!";
 "ENTER_CODE_TITLE" = "Enter Code";
@@ -14,7 +14,7 @@
 "NO_CAMERA_ACCESS_TITLE" = "No access to Camera. How can we scan?";
 "ERROR_1_TITLE" = "User not found";
 "DR_TUTORIAL_RECEIVE_CALLS" = "You are currently receiving calls over Wi-Fi and avoiding roaming charges.";
-"ALL" = "All";
+"ALL" = "الجميع";
 "ERROR_1050_TITLE" = "Attention!";
 "INS_OPEN_SETTINGS" = "Open iPhone Settings.";
 "DIALER_SUGGEST_TYPE_MESSAGE" = "We suggest you make a regular call in Roamer";
