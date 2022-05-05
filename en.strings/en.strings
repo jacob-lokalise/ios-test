@@ -18,9 +18,7 @@
 "ERROR_1050_TITLE" = "Attention!";
 "INS_OPEN_SETTINGS" = "Open iPhone Settings.";
 "DIALER_SUGGEST_TYPE_MESSAGE" = "We suggest you make a regular call in Roamer";
-"DR_TUTORIAL_MAKE_CALLS" = "Use Roamer to make international calls from your regular number.\
-\
-Select regular calls for reliability and Internet calls for the lowest rates.";
+"DR_TUTORIAL_MAKE_CALLS" = "Use Roamer to make international calls from your regular number.";
 "ERROR_23_TITLE" = "Payment problem";
 "ERROR_25_MESSAGE" = "We could not validate your payment. Contact support@roamerapp.com";
-"CALL_TRANSFERING" = "transferring new value again";
+"testkey1" = "testkey1 value";
