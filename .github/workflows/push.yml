@@ -17,6 +17,5 @@ jobs:
           api_token: beece0b6b759fd277e7e55ab079e9819a0aeec82
           project_id: 76609989673b8096e8bf69.21452625
           file_format: strings
-          translations_path: |
-            locales
+          translations_path:
           base_lang: en
